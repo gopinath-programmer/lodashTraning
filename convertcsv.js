@@ -260,7 +260,7 @@ const header = _.flatten([
   "id",
   "name",
   dates,
-  "Highest Continuity Of Prices",
+  "Highest Consecutive Of Dates",
   "Date of Maximum price",
 	"Maximum price"
 ]);
